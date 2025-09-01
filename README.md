@@ -1,2 +1,3 @@
 # Dashboard-Project-in-EXCEL
-An interactive and dynamic dashboard built in Excel for visualizing key business metrics. This project uses Pivot Tables and Slicers to allow for easy data filtering and analysis.
+## Project Objective
+The primary objective of this project is to create an accessible and dynamic Excel-based tool to efficiently monitor and analyze the sales performance of individual sales representatives.
