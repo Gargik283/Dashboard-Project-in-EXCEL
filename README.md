@@ -24,6 +24,7 @@ Pivot Tables: Used to summarize and analyze large datasets.
 Pivot Charts: Visual representations of the data from the Pivot Tables.
 Slicers: Interactive filtering tools for easy data navigation.
 Conditional Formatting: Applied to highlight performance and trends.
+
 Looking for a custom Dashboard? Let's connect
 
 ![Screenshot of Dashboard](https://github.com/user-attachments/assets/ed9386f2-f4bf-4bc6-a8b2-b7ef0226403a)
